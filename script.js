@@ -1,3 +1,3 @@
-function somar(somar = i, ) {
-
+function somar() {
+    3 + 5
 }
